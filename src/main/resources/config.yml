@@ -1,0 +1,5 @@
+compile:
+  jarname: "CompiledJar.jar"
+  otherfiles: "OtherFiles"
+  classoutput: "ClassOutput"
+  libs: "libs"
