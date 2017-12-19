@@ -1,5 +1,7 @@
 # MC Book IDE
 
+_For Spigot resource page, check [here](https://www.spigotmc.org/resources/mc-book-ide.50946/)_
+
 Previously, if you wanted to program in Java, you had to have a large application such as IntelliJ, or a much smaller program such as Atom, Notepad++, Notepad, or even Eclipse, if you really wanted lack of features. That was before the creation of MS Paint IDE came into existence, of course, but some people didn't have Windows, and felt left out. Since this is primarily for the Spigot community, most people play Minecraft. So why not have a way for people to program in Minecraft? This is the exact problem MC Book IDE solves, giving you the ability to craft beautiful programs within the game.
 
 _Note: When using this plugin, due to the way Java is designed, if you want to compile classes, you need to run your server off of the JDK, not the JRE._
